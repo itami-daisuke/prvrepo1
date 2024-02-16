@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="14090.00"/>
+    <WithIsn val="Y"/>
+    <LastIsn val="3"/>
+    <LastIsnFolder val="0"/>
+  </Header>
+
+  <RightsRepository>
+    <Rights>
+      <Right id="1" name="管理者">
+        <PublicRight val="Y"/>
+        <Key val="kanri"/>
+      </Right>
+      <Right id="2" name="経理">
+        <PublicRight val="Y"/>
+        <Key val="keiri"/>
+      </Right>
+      <Right id="3" name="営業">
+        <PublicRight val="Y"/>
+        <Key val="eigyo"/>
+      </Right>
+    </Rights>
+  </RightsRepository>
+
+</Application>
